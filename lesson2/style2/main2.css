@@ -1,0 +1,17 @@
+.family{
+    text-align: justify;
+    background: silver;
+    padding: 30px;
+    box-sizing: border-box;
+    margin: 20px;
+    border: 2px solid violet;
+}
+img{
+    width: 200px;
+    display: block;
+    border: 5px solid violet;
+}
+div{
+    background: olivedrab;
+    border-radius: 5px;
+}
