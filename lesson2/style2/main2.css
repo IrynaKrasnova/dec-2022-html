@@ -13,8 +13,14 @@ img{
 }
 div{
     background: olivedrab;
+    padding: 10px;
     border-radius: 5px;
+    margin: 5px;
 }
 .final{
     background: cadetblue;
+}
+.father{
+    display: flex;
+    margin: 5px;
 }
