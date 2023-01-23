@@ -5,22 +5,34 @@
     box-sizing: border-box;
     margin: 20px;
     border: 2px solid violet;
+
 }
 img{
-    width: 200px;
     display: block;
     border: 5px solid violet;
 }
 div{
-    background: olivedrab;
     padding: 10px;
     border-radius: 5px;
     margin: 5px;
 }
 .final{
     background: cadetblue;
+    height: 300px;
 }
 .father{
     display: flex;
     margin: 5px;
+}
+.father>div{
+    margin: 10px;
+    border: 5px solid darkorange;
+    background: olivedrab;
+}
+.Homer{
+    order: 3;
+}
+.family>img{
+    height: 350px;
+    width: 350px;
 }
