@@ -1,11 +1,18 @@
 .father{
     display: flex;
-    flex-direction: row;
-    background: 5px olivedrab;
-    width: 100px;
-    height: 100px;
+    background: silver;
+    justify-content: center;
+    box-sizing: border-box;
 }
-.img{
-    width: 100px;
-    height: 100px;
+.father>div{
+    margin: 100px;
+    height: 400px;
+    width: 400px;
+    background: olivedrab;
+}
+.div{
+    padding: 500px;
+}
+.body{
+    margin: 10px;
 }
