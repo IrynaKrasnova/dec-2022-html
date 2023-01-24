@@ -1,4 +1,12 @@
-li{
-    background: cornflowerblue;
-
+.back{
+    background: darkorange;
+}
+.w200{
+    width: 200px;
+}
+.h200{
+    height: 200px;
+}
+.round{
+    border-radius: 50%;
 }
