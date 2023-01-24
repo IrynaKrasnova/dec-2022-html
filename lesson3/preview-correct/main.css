@@ -1,0 +1,12 @@
+.ширина200{
+  width: 200px;
+}
+.высота200{
+    height: 200px;
+}
+.цветсин{
+    background: blue;
+}
+.радиус5{
+    border-radius: 5px;
+}
