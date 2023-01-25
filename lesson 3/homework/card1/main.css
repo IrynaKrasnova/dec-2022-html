@@ -31,3 +31,20 @@ button{
     height: 50px;
     text-align: center;
 }
+.kolo{
+    border-radius: 50%;
+    background: darkorange;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top: 25px;
+    display: flex;
+    }
+.figure{
+    font-size: 40px;
+    position: relative;
+    left: 25px;
+    top: 10px;
+
+}
