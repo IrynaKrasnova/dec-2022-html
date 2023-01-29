@@ -1,0 +1,22 @@
+@media screen and (min-width: 0px) and (max-width: 767px){
+    .box1{
+        width: 100%;
+        height: 100%;
+        margin: 10px;
+    }
+    .general2{
+        display: block;
+    }
+    .F{
+        width: 100%;
+        height: 30%;
+        margin: 10px;
+    }
+}
+.base2{
+    width: 100vw;
+    height: 100vh;
+}
+.A{
+    margin: 10px;
+}

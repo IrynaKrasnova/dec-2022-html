@@ -22,9 +22,8 @@ body{
     justify-content: space-between;
 }
 .box1{
-    width: 70%;
+    width: 65%;
     height: 100%;
-    background: crimson;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -33,13 +32,12 @@ body{
 .B{
     width: 100%;
     height: 50%;
-    background: chartreuse;
+    background: darkgray;
     margin: 10px;
 }
 .main{
     width: 100%;
     height: 50%;
-    background: blue;
     display: flex;
     justify-content: space-between;
     margin: 10px;
@@ -47,6 +45,8 @@ body{
 .box{
     width: 30%;
     height: 100%;
+    background: darkgray;
+
 }
 
 .A, .B, .box,.F{
@@ -55,7 +55,7 @@ body{
     align-items: center;
     font-size: 30px;
     color: darkslategray;
-}
+   }
 
 .F {
     width: 30%;
@@ -63,7 +63,5 @@ body{
     background: silver;
     margin: 10px;
 }
-.C{
-    background: hotpink;
-}
+
 
