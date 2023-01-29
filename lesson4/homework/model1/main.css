@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.base1{
+    width: 1200px;
+    height: 100vh;
+    background: snow;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.A{
+    width: 100%;
+    height: 30%;
+    background: darkgray;
+}
+.general{
+    width: 100%;
+    height: 65%;
+    display: flex;
+    justify-content: space-between;
+}
+.A,.B,.C{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: darkslategray;
+}
+.B{
+    width: 65%;
+    height: 100%;
+    background: darkgray;
+}
+.C{
+    width: 30%;
+    height: 100%;
+    background: silver;
+
+}
+
