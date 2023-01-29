@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.base2{
+    width: 1200px;
+    height: 100vh;
+    background: snow;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.A{
+    width: 100%;
+    height: 30%;
+    background: darkgray;
+}
+.general2{
+    width: 100%;
+    height: 65%;
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    width: 70%;
+    height: 100%;
+    background: crimson;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+}
+.B{
+    width: 100%;
+    height: 50%;
+    background: chartreuse;
+    margin: 10px;
+}
+.main{
+    width: 100%;
+    height: 50%;
+    background: blue;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.box{
+    width: 30%;
+    height: 100%;
+}
+
+.A, .B, .box,.F{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: darkslategray;
+}
+
+.F {
+    width: 30%;
+    height: 100%;
+    background: silver;
+    margin: 10px;
+}
+.C{
+    background: hotpink;
+}
+
